@@ -1,3 +1,2 @@
-Migrating over to [Codeberg](https://codeberg.org/stackallocator)
-
+Moved to Codeberg.
 Will still use this account ocasionally.
